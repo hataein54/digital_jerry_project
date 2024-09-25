@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(255, 253, 225);
+}
+
+#wrap{
+    text-align: center;
+}
+
+#title:hover {
+    transition: 0.2s;
+    transform: scale(1.1);
+}
+
+a{
+    text-decoration: none;
+}
+
+#navUl, #footerDiv{
+    background-color: rgb(255, 250, 183);
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.table {
+    border: 1;
+}
+
+.table > tr{
+    border: 1;
+}
+
+.table > td{
+    border: 1;
+}
